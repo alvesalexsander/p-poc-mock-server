@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Heineken",
+      "price": 4.3
+    },
+    {
+      "name": "Budweiser",
+      "price": 4.3
+    },
+    {
+      "name": "Corona",
+      "price": 6
+    },
+    {
+      "name": "Brahma",
+      "price": 3.75
+    },
+    {
+      "name": "Antártica",
+      "price": 3.75
+    },
+    {
+      "name": "Bolinho de Bacalhau",
+      "price": 8.99
+    }
+  ]
+}
